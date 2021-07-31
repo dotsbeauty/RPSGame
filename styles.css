@@ -1,0 +1,70 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #023047;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 5px 0 #fb8500;
+    font-size: 7rem;
+    color: #ffb703;
+  }
+  
+  h2{
+     margin: 10px;
+     color: #F2C14E;
+    }
+
+.text{
+  width: 50%;
+  float: left;
+}
+
+h3{
+     margin: 10px;
+     color: #EEEEEE;
+     font-size: large;
+}
+  p {
+    font-size: 2rem;
+    color: #66ffe0;
+    font-family: 'Indie Flower', cursive;
+  }
+
+  img {
+    width: 200px;
+    margin: 5% auto auto auto;
+  }
+
+  .img1{
+  	width: 200px;
+    margin: 5% auto auto auto;
+  }
+
+  .img2{
+  	width: 200px;
+    margin: 5% auto auto auto;
+
+  }
+
+  .btn{
+    margin-top: 5%;
+   background-color: #1d3557;
+   color: #ffb703;
+  }
+
+  .btn:hover{
+    background-color:#ffb703;
+    color: #023047;
+  }
+  
+  .playbtn{
+    margin-top: 5% ;
+    color: #ffb703;
+  }
